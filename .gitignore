@@ -1,0 +1,15 @@
+# Environnements / secrets
+venv/
+elastic-start-local/
+.env
+da
+
+# Archive source Elasticsearch (trop volumineuse, non nécessaire)
+elasticsearch-main.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
